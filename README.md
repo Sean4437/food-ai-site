@@ -7,6 +7,10 @@
 - `privacy.html`
 - `terms.html`
 - `support.html`
+- `en/index.html`
+- `en/privacy.html`
+- `en/terms.html`
+- `en/support.html`
 - `styles.css`
 
 使用方式：
@@ -19,4 +23,5 @@
 
 備註：
 - 這份模板先追求可上線，不含後端。
+- 根目錄為繁體中文，`/en/` 為英文版骨架。
 - 若要做正式品牌站，再基於這組 HTML/CSS 延伸即可。
